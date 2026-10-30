@@ -1,0 +1,6 @@
+{
+  "name": "The Hotpot Bowl",
+  "description": "Premium Asian comfort food brand specializing in authentic hotpot, ramen, handcrafted dumplings & momos, and crispy corn dogs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
